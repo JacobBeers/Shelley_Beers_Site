@@ -57,3 +57,32 @@ h1 {
   
 }
 
+input {
+  background-color: aliceblue;
+  font-family: 'Roboto', sans-serif;
+}
+
+textarea {
+  background-color: aliceblue;
+  font-family: 'Roboto', sans-serif;
+}
+
+#facebook-button {
+  width: 100px;
+  height: auto;
+}
+
+#contact {
+  border: none;
+}
+
+footer {
+  width: 100%;
+  border-top: solid;
+}
+
+#submit {
+  background-color: lightgray;
+  font-family: 'Roboto', sans-serif;
+  ;
+}
